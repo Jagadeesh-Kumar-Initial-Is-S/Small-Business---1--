@@ -122,12 +122,9 @@ And so I solved this problem using Javascript.
 
 ### Can you share any lessons learned or best practices that you followed during the development process?
 
-1. The development process made me faster in coding programming languages such as HTML, CSS and JavaScript.
-<br />
-2. Practice makes perfect.
-<br />
-3. The creation of navigation bar isn't too hard.
-<br />
+1. The development process made me faster in coding programming languages such as HTML, CSS and JavaScript.<br />
+2. Practice makes perfect.<br />
+3. The creation of navigation bar isn't too hard.<br />
 4. I made a design to create  the website then I processed the creation of the website.
 
 <hr />
